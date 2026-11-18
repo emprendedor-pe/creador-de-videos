@@ -1,0 +1,10 @@
+{
+  "name": "FrameForge AI Video Studio",
+  "short_name": "FrameForge",
+  "description": "Estudio privado para generar clips de video con OpenRouter",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10"
+}
